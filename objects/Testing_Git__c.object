@@ -5,7 +5,7 @@
         <caseSensitive>false</caseSensitive>
         <externalId>false</externalId>
         <label>Text Field</label>
-        <length>200</length>
+        <length>150</length>
         <required>true</required>
         <trackFeedHistory>false</trackFeedHistory>
         <trackHistory>false</trackHistory>
